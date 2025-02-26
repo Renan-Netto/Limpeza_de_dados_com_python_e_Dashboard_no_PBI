@@ -42,7 +42,7 @@ A segmentação dos dados foi feita para análises por data e origem do combust�
 
 ### Conclusões
 
-A maior parte da potência é gerada a partir de combustíveis fósseis.
-Entre 2012 e 2014 houve principalmente a proliferação de usinas a partir de combustíveis fósseis.
-Usinas a base de combustíveis fósseis representam cerca de 80% do total.
-Há grande variabilidade entre os combustíveis usados para a geração de energia em termelétricas.
+- A maior parte da potência é gerada a partir de combustíveis fósseis.
+- Entre 2012 e 2014 houve principalmente a proliferação de usinas a partir de combustíveis fósseis.
+- Usinas a base de combustíveis fósseis representam cerca de 80% do total.
+- Há grande variabilidade entre os combustíveis usados para a geração de energia em termelétricas.
