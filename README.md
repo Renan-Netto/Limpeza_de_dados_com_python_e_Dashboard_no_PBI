@@ -26,8 +26,7 @@ As variáveis descritivas do dataset foram uniformizadas, de modo a impedir que 
 
 #### Armazenagem dos Dados Limpos
 
-Os dados limpos fora armazenados no formato .csv e também em um banco de dados SQL do tipo SQLite utilizando linquagem SQL por meio do pacote python sqlite3.
-As demais manipulações de dados para o BD SQLite foram feitas usando o pacote pandas em conjunto com o pacote sqlalchemy.
+Os dados limpos fora armazenados no formato .csv.
 
 #### Confecção do Dashboard
 
@@ -36,8 +35,7 @@ A segmentação dos dados foi feita para análises por data e origem do combust�
 
 #### Linguagens e Pacotes Utilizados
 
-- Python: pandas, sqlite3, sqlalchemy.
-- SQL: extração de dados via query.
+- Python: pandas.
 - PBI: DAX para criação de medida.
 
 ### Conclusões
